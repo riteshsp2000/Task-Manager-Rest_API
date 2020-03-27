@@ -4,7 +4,7 @@ const User = require('../models/User')
 const auth = require('../middleware/auth')
 const multer = require('multer')
 const sharp = require('sharp')
-const {sendWelcomeEmail, sendCancellationEmail} = require('../emails/account').sendWelcomeEmail
+const {sendWelcomeEmail, sendCancellationEmail} = require('../emails/account')
 
 // Routes for users
 router.post('/users', async (req,res) => {
@@ -18,6 +18,7 @@ router.post('/users', async (req,res) => {
     res.status(201).send({user, token})
   } catch (e) {
     res.status(400).send(e)
+    console.log(e)
   }
 })
 
