@@ -13,7 +13,7 @@ Manage all your tasks with the Task-It REST API.
 
 Has full fledged support for user login and sign up.  Filter and sort your tasks, search with pagination and a whole lot more features accessible with just some simple requests.
 
-### Live Demo : https://elit-task-manager.herokuapp.com/
+### Live Demo : https://git.heroku.com/riteshsp2000-task-manager-api.git
 
 ## Description
 
