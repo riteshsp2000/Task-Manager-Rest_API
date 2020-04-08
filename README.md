@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/package--manager-npm-grenblue?style=flat">
     <img src="https://img.shields.io/badge/routing-Express-yellow?style=flat">   
 </p>
-<img src="https://img.shields.io/badge/made--by-elit--altum-purple?style=flat">
+
 
 ***A Representational State Transfer API for managing all your tasks, built using MongoDB and Express***
 
