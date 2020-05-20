@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/package--manager-npm-grenblue?style=flat">
     <img src="https://img.shields.io/badge/routing-Express-yellow?style=flat">   
 </p>
-
+<img src="https://img.shields.io/badge/made--by-elit--altum-purple?style=flat">
 
 ***A Representational State Transfer API for managing all your tasks, built using MongoDB and Express***
 
@@ -13,7 +13,7 @@ Manage all your tasks with the Task-It REST API.
 
 Has full fledged support for user login and sign up.  Filter and sort your tasks, search with pagination and a whole lot more features accessible with just some simple requests.
 
-### Live Demo : https://git.heroku.com/riteshsp2000-task-manager-api.git
+### Live Demo : https://riteshsp2000-task-manager.herokuapp.com/
 
 ## Description
 
